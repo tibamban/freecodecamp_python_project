@@ -427,3 +427,43 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find asset
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons .client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons .client/.assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git add .
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git log
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git checkout -b bash
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git add .
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git commit -a
