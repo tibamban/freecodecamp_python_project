@@ -467,3 +467,62 @@ git status
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
 git commit -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push bash
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream bash bash
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream git push --set-upstream bash ba
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git remote
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git remote add bash https://github.com/tibamban/freecodecamp_python_project.git
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push bash
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream bash bash
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv icons client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto client/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ../..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
