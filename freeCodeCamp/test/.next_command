@@ -559,3 +559,78 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mkdir fonts client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir fonts client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv fonts client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd client/assets/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv mv fonts ../../
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv fonts ../../
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ../..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
