@@ -655,3 +655,12 @@ history -a
 touch client/assets/fonts/roboto-light.woff
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find -name client/assets/fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name client/assets/fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find client/assets/fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
